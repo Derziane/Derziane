@@ -1,5 +1,8 @@
 ### Olá, eu sou Derziane Pawelski 👋
-_Licenciada em Letras Português - Inglês. Iniciante na programação._
+_Licenciada em Letras Português - Inglês._ 
+
+_Iniciante na programação._
+
 _Aluna participante do Grupo de Estudos - Formadores em Ação_
 
 
