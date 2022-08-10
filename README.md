@@ -1,4 +1,5 @@
 ### Olá, eu sou Derziane Pawelski 👋
+_Licenciada em Letras Português - Inglês. Iniciante na programação._
 
 <!--
 **Derziane/Derziane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
