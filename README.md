@@ -5,7 +5,9 @@ _Iniciante na programação._
 
 _Aluna participante do Grupo de Estudos - Formadores em Ação_
 
-- 🔭 *Atualmente estou trabalhando no *Colégio Alberto da Silva Paraná - Ventania Pr.* Lecioando *Inglês e Pensamento Computacional*
+- 🔭 *Atualmente estou trabalhando no *Colégio Alberto da Silva Paraná - Ventania Pr.* 
+
+*Lecioando *Inglês e Pensamento Computacional*
 
 
 ## Aprendendo
