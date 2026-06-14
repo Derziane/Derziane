@@ -1,15 +1,15 @@
 ### Olá, eu sou Derziane Pawelski 👋
-_Licenciada em Letras Português - Inglês e pedagogia._ 
+_Licenciada em Letras Português - Inglês e Pedagogia._ 
+
 _Cursando Licenciatura em Computação._
+
 _Iniciante na programação._
 
 _Aluna participante do Grupo de Estudos - Formadores em Ação_
 
 - 🔭 *Atualmente estou trabalhando no *Colégio CEC Maria Diva com a disciplina de Educação Digital e Comp: Programação e IA.*
+  
 - *_No Colégio CCM José de Alencar e CEC Pedro Marcondes Ribas Com Língua Inglesa._* 
-
-*Lecioando *Inglês e Pensamento Computacional*
-
 
 ## Aprendendo
 
