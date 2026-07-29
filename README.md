@@ -9,7 +9,7 @@ _Aluna participante do Grupo de Estudos - Formadores em Ação_
 
 - 🔭 *Atualmente estou trabalhando no Colégio CEC Maria Diva com a disciplina de Educação Digital e Comp: Programação e IA.*
   
-- *_No Colégio CCM José de Alencar e CEC Pedro Marcondes Ribas Com Língua Inglesa._* 
+- *_No CEC Pedro Marcondes Ribas Com Língua Inglesa._* 
 
 ## Aprendendo
 
